@@ -409,7 +409,7 @@ enable_testing() # must be called from the root CMakeLists, see man page
 #  add_subdirectory(lapack EXCLUDE_FROM_ALL)
 #endif()
 
-add_subdirectory(unsupported)
+#add_subdirectory(unsupported)
 
 #add_subdirectory(demos EXCLUDE_FROM_ALL)
 
